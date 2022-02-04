@@ -1,0 +1,7 @@
+manhattan
+view
+queens
+city
+cityscape
+nyc
+lic

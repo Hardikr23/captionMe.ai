@@ -1,0 +1,13 @@
+slowmo
+view
+manhattan
+queens
+lic
+nyc
+newyork
+empirestate
+building
+skyline
+city
+river
+bird

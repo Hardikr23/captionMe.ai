@@ -1,0 +1,5 @@
+nyc
+manhattan
+broadway
+streets
+people

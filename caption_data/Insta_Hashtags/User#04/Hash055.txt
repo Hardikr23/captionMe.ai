@@ -1,0 +1,6 @@
+landscape
+cityscape
+mumbai
+travelingram
+travelphotography
+travelphoto

@@ -1,0 +1,7 @@
+nyc
+manhattan
+dance
+studio
+theater
+street
+window

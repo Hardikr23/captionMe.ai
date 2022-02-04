@@ -1,0 +1,7 @@
+abstract
+blackandwhite
+monochrome
+contrast
+fullmoon
+midnightwandering
+goa

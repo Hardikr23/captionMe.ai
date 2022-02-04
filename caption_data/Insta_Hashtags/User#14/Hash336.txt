@@ -1,0 +1,4 @@
+streets
+newyork
+nyc
+manhattan

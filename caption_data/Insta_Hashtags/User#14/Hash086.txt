@@ -1,0 +1,10 @@
+view
+grandcentral
+newyork
+manhattan
+nyc
+city
+building
+yellow
+cab
+taxi

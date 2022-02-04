@@ -1,0 +1,4 @@
+pistol
+shoot
+game
+bastards

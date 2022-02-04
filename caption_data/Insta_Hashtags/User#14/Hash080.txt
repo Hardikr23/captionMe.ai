@@ -1,0 +1,8 @@
+streets
+newyork
+nyc
+manhattan
+42
+summer
+city
+building

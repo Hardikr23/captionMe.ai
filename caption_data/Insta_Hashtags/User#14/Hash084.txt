@@ -1,0 +1,13 @@
+streets
+newyork
+city
+nyc
+manhattan
+building
+wall
+brick
+stair
+window
+door
+store
+liquor

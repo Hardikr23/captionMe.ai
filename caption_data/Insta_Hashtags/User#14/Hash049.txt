@@ -1,0 +1,7 @@
+streets
+boston
+littleitaly
+northend
+building
+wall
+brick

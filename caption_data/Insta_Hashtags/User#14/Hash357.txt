@@ -1,0 +1,6 @@
+nyc
+manhattan
+street
+stairs
+flowers
+building

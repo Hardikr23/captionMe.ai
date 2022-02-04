@@ -1,0 +1,5 @@
+farm
+house
+family
+trip
+tumakuru

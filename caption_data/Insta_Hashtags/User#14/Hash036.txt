@@ -1,0 +1,12 @@
+building
+facade
+street
+manhattan
+newyork
+nyc
+colr
+wall
+restaurant
+door
+window
+city

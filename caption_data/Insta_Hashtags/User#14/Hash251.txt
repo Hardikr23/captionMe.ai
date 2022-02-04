@@ -1,0 +1,7 @@
+nyc
+street
+winter
+manhattan
+steam
+taxi
+night

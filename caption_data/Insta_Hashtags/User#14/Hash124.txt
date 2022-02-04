@@ -1,0 +1,9 @@
+licbar
+LIC
+local
+bar
+queens
+brick
+wall
+red
+door

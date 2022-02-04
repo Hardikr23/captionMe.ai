@@ -1,0 +1,5 @@
+quotes
+true
+apply
+life
+important

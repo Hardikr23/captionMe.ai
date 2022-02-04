@@ -1,0 +1,5 @@
+nyc
+manhattan
+2gold
+canon
+zoom

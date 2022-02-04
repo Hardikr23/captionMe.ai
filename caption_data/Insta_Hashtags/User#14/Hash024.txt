@@ -1,0 +1,7 @@
+view
+manhattan
+queens
+longislandcity
+newyork
+winter
+nosnow

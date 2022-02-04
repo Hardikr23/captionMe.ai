@@ -1,0 +1,6 @@
+instapic
+bright
+sunny
+day
+rainy
+potd

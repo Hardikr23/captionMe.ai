@@ -1,0 +1,7 @@
+ballarat
+stpats
+cathedral
+light
+aisle
+seats
+pew

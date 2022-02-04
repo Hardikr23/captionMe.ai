@@ -1,0 +1,12 @@
+window
+architecture
+coexiststudios
+coolbreeze
+open
+openwindow
+splat
+wall
+curtain
+curtaincall
+bricks
+brickwork

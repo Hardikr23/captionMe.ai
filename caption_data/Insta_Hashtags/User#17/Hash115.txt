@@ -1,0 +1,4 @@
+magnum
+potd
+fotd
+yum

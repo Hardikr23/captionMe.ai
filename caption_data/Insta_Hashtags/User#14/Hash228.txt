@@ -1,0 +1,8 @@
+view
+manhattan
+astoria
+park
+hells
+bridge
+nyc
+queens

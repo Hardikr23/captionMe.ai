@@ -1,0 +1,5 @@
+street
+nyc
+manhattan
+building
+stairs

@@ -1,0 +1,7 @@
+lamp
+elevator
+artdeco
+deco
+ironwork
+oldskool
+sydney

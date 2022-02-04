@@ -1,0 +1,7 @@
+old
+modern
+newyork
+street
+building
+manhattan
+nyc

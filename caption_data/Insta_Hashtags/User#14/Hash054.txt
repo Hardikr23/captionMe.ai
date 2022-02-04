@@ -1,0 +1,9 @@
+black
+red
+building
+newyork
+manhattan
+nyc
+street
+color
+summer

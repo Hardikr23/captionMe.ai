@@ -1,0 +1,8 @@
+wall
+steps
+wallpic
+justclick
+instapic
+follow
+img
+picoftheday

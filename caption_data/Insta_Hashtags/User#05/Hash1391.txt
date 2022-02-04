@@ -1,0 +1,9 @@
+glass
+sunlight
+morning
+shadow
+warmth
+ray
+light
+spring
+sphere

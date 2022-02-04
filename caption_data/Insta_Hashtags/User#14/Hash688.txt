@@ -1,0 +1,10 @@
+building
+bridge
+sky
+ny
+brooklyn
+nyc
+manhattan
+street
+road
+cars

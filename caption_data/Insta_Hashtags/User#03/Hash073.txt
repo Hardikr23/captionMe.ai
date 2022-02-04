@@ -1,0 +1,5 @@
+dinner
+office
+casual
+party
+boss

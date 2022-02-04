@@ -1,0 +1,12 @@
+ny
+nyc
+building
+manhattan
+street
+road
+highway
+tiny
+tilt-shift
+bridge
+river
+brooklyn

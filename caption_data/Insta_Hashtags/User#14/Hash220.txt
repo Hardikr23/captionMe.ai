@@ -1,0 +1,11 @@
+clean
+white
+building
+stairs
+windows
+spring
+sun
+nyc
+manhattan
+city
+everyyear

@@ -1,0 +1,6 @@
+mayfair
+hotel
+newyork
+nyc
+building
+street

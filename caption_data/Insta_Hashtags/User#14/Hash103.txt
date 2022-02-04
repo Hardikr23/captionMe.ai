@@ -1,0 +1,11 @@
+metal
+sculpture
+gallery
+brooklyn
+newyork
+street
+wall
+building
+door
+graffiti
+art

@@ -1,0 +1,15 @@
+street
+art
+graffiti
+longislandcity
+queens
+newyork
+man
+head
+idea
+wall
+brick
+door
+window
+construction
+gate

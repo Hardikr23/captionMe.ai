@@ -1,0 +1,5 @@
+lobby
+fireplace
+building
+airbnb
+boston

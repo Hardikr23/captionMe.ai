@@ -1,0 +1,4 @@
+nyc
+Brooklyn
+subway
+friends

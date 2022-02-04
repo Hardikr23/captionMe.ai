@@ -1,0 +1,6 @@
+nyc
+manhattan
+hudson
+pier
+park
+fishing

@@ -1,0 +1,5 @@
+manhattan
+ny
+tinyplanet
+street
+building

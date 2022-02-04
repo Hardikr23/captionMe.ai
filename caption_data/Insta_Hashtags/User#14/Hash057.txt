@@ -1,0 +1,8 @@
+center
+square
+tula
+city
+russia
+lenin
+flag
+building

@@ -1,0 +1,7 @@
+nyc
+manhattan
+centralpark
+lake
+water
+sky
+spring

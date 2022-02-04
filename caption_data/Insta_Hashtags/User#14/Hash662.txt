@@ -1,0 +1,4 @@
+manhattan
+ny
+lamp
+bulb

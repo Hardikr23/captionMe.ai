@@ -1,0 +1,4 @@
+dominican
+texture
+leaf
+palm

@@ -1,0 +1,7 @@
+model
+fashion
+designer
+satyapaul
+amazing
+runway
+love

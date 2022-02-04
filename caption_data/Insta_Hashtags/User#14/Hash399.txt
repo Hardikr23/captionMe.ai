@@ -1,0 +1,6 @@
+nyc
+manhattan
+washingtonsquare
+park
+pillow
+fight

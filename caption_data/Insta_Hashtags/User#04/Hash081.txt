@@ -1,0 +1,13 @@
+farm
+farmland
+fire
+smoke
+cow
+bored
+boredcow
+evenings
+_soi
+trees
+goa
+latergram
+instagram

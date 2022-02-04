@@ -1,0 +1,7 @@
+manhattan
+view
+queens
+lic
+bird
+spring
+sun

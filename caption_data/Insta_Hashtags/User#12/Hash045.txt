@@ -1,0 +1,4 @@
+android
+s6edge
+samsung
+wireless

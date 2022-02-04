@@ -1,0 +1,7 @@
+simple
+dinner
+fish
+avocado
+tomatoes
+salt
+pepper

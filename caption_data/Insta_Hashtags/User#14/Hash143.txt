@@ -1,0 +1,12 @@
+manhattan
+view
+honeywell
+street
+bridge
+queens
+nyc
+newyork
+train
+path
+rail
+road

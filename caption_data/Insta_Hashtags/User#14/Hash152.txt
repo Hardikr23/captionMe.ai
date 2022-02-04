@@ -1,0 +1,5 @@
+streets
+newyork
+nyc
+manhattan
+building

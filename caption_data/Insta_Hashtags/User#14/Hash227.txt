@@ -1,0 +1,9 @@
+fog
+manhattan
+sunset
+lic
+nyc
+queens
+street
+light
+sky

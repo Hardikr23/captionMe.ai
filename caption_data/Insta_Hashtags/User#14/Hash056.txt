@@ -1,0 +1,9 @@
+bread
+shop
+hellskitchen
+manhattan
+newyork
+nyc
+street
+building
+summer

@@ -1,0 +1,6 @@
+nyc
+manhattan
+building
+stairs
+street
+shopstudios

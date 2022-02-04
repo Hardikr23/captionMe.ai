@@ -1,0 +1,6 @@
+view
+manhattan
+lic
+park
+queens
+NYC

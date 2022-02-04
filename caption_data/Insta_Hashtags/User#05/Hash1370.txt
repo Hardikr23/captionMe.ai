@@ -1,0 +1,7 @@
+floorrainbow
+rainbow
+floor
+mat
+lines
+tiles
+marble

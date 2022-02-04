@@ -1,0 +1,8 @@
+centrepiece
+flowers
+petal
+pottedplant
+nature
+decorations
+ornament
+colourful

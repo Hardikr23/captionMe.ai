@@ -1,0 +1,8 @@
+nyc
+manhattan
+hudson
+river
+park
+run
+sport
+workout

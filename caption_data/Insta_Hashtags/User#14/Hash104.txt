@@ -1,0 +1,14 @@
+queens
+midtown
+tunnel
+view
+palaski
+bridge
+nyc
+newyork
+manhattan
+street
+road
+car
+light
+sunset

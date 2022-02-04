@@ -1,0 +1,6 @@
+tiles
+doorway
+wheretonow
+whichway2turn
+whereisevery1#escape
+b&w

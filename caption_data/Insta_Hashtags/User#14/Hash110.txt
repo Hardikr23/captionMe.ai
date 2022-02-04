@@ -1,0 +1,7 @@
+newyork
+subway
+station
+timessquare
+42
+street
+mta

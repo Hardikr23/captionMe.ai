@@ -1,0 +1,5 @@
+nyc
+manhattan
+building
+stairs
+window
