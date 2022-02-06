@@ -87,8 +87,10 @@ def read_captions_csv(captions_csv_file_path):
         all_caption_info_dict[caption_set] = get_emotion_scores(all_captions_df_dict[caption_set])
     # print(all_caption_info_dict)
 
+    outfile_path = "./all_captions_info.json"
     outfile_id = open("./all_captions_info.json","w")
     outfile_id.write(json.dumps(all_caption_info_dict))
     outfile_id.close()
     print("written all caption data to all_captions_info.json", )
+    return(outfile_path)
     # pending writes in Neo4j
