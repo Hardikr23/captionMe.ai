@@ -112,11 +112,11 @@ def read_celeb_csv(celeb_file_path):
     cristiano=dataframe.query('author == "Cristiano"')
     justinbieber=dataframe.query('author == "justinbieber"')
     celeb_dict = {
-        "ellen": ellen,
-        "barack": barack,
-        "rihanna": rihanna,
-        "cristiano": cristiano,
-        "JB": justinbieber
+        "Ellen": ellen,
+        "BarackObama": barack,
+        "Rihanna": rihanna,
+        "Cristiano": cristiano,
+        "JustinBieber": justinbieber
     }
     celeb_emotion_dict={}
     for celeb in celeb_dict.keys():
