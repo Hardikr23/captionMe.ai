@@ -19,7 +19,7 @@ time.sleep(2)
 print("Analysing corpora of captions and generating feature vectors . . .")
 print("Getting your predictions ready . . .")
 
-caption_db_loc = read_captions_csv("../caption_data/captions_csv.csv")
+caption_db_loc = read_captions_csv("captions_csv.csv")
 celeb_personality_vectors = read_celeb_csv("../caption_data/celeb_tweets.csv")
 
 file_path = get_user_img()
