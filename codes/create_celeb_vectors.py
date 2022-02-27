@@ -7,7 +7,7 @@
 import numpy as np
 import text2emotion as te
 import pandas as pd
-
+import json
 
 # In[11]:
 
@@ -63,6 +63,10 @@ def read_celeb_csv(celeb_file_path):
     celeb_emotion_dict={}
     for celeb in celeb_dict.keys():
         celeb_emotion_dict[celeb]=generate_celeb_vector(celeb_dict[celeb])
+    outfile_path = "celeb_emotion_dict.json"
+    outfile_id = open(outfile_path,"w")
+    outfile_id.write(json.dumps(celeb_emotion_dict))
+    outfile_id.close()
     return celeb_emotion_dict
 
 

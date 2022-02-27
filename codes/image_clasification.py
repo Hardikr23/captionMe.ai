@@ -48,9 +48,6 @@ def trainModel():
 
 def predictImage(model, file_name, classification):
     xVal = ''
-    print(model)
-    print(file_name)
-    print(classification)
     image1 = image.load_img(file_name,target_size=(150,150))
     plt.imshow(image1)
     Y = image.img_to_array(image1)
@@ -103,13 +100,10 @@ oceanTrees.fit(
 # In[6]:
 
 
-type(oceanTrees)
-
-
 # In[7]:
 
 
-print(predictImage(oceanTrees, '/Users/anahitabilimoria/Desktop/image.jpeg', oceanTreesClass))
+# print(predictImage(oceanTrees, '/Users/anahitabilimoria/Desktop/image.jpeg', oceanTreesClass))
 
 
 # In[8]:
@@ -150,7 +144,7 @@ nightSun.fit(
 # In[10]:
 
 
-print(predictImage(nightSun, '/Users/anahitabilimoria/Desktop/image.jpeg' , nightSunClass))
+# print(predictImage(nightSun, '/Users/anahitabilimoria/Desktop/image.jpeg' , nightSunClass))
 
 
 # In[11]:
@@ -168,9 +162,10 @@ def trainImageAI(filepath):
     detector.loadModel()
 
     detections = detector.detectObjectsFromImage(input_image=os.path.join(execution_path , filepath), output_image_path=os.path.join(execution_path , "imagenew.jpg"))
-    print(detections)
+
     for eachObject in detections:
         print(eachObject["name"] , " : " , eachObject["percentage_probability"])
+        print()
     
     return detections
 
@@ -204,8 +199,9 @@ def main_predict(filename):
         for key, value in requiredName.items():
             if _ in requiredName[key]:
                 finalArr.append(key)
+    print(finalArr)
+    print()
     return finalArr    
-
 
 # In[ ]:
 
