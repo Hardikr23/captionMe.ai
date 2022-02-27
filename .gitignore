@@ -3,3 +3,4 @@
 .vscode/*
 CaptionMe_env/*
 test_env/*
+*.h5
