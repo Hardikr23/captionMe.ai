@@ -71,12 +71,12 @@ train_datagen = ImageDataGenerator(
         horizontal_flip=True)
 test_datagen = ImageDataGenerator(rescale=1./255)
 train_set = train_datagen.flow_from_directory(
-        '/Users/anahitabilimoria/Desktop/data_zip (1)/Train',
+        os.getcwd() + '/../images/Train',
         target_size=(150, 150),
         batch_size=32,
         class_mode='binary')
 test_set = test_datagen.flow_from_directory(
-        '/Users/anahitabilimoria/Desktop/data_zip (1)/Test',
+        os.getcwd() + '/../images/Test',
         target_size=(150, 150),
         batch_size=32,
         class_mode='binary')
@@ -116,12 +116,12 @@ train_datagen1 = ImageDataGenerator(
         horizontal_flip=True)
 test_datagen1 = ImageDataGenerator(rescale=1./255)
 train_set1 = train_datagen1.flow_from_directory(
-        '/Users/anahitabilimoria/Desktop/data_zip (1)/Train2',
+        os.getcwd() + '/../images/Train2',
         target_size=(150, 150),
         batch_size=32,
         class_mode='binary')
 test_set1 = test_datagen1.flow_from_directory(
-        '/Users/anahitabilimoria/Desktop/data_zip (1)/Test2',
+        os.getcwd() + '/../images/Test2',
         target_size=(150, 150),
         batch_size=32,
         class_mode='binary')
